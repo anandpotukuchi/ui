@@ -1,0 +1,318 @@
+# Mint
+
+### A Personal Budget Tracking App for Everyday Expense Management
+
+**Project Type:** Personal UI/UX Concept
+**Duration:** January 2022
+**Role:** UX Designer & UI Designer
+**Platform:** Mobile App
+
+---
+
+# Project Overview
+
+Mint was one of my earliest attempts at designing a utility-focused mobile application.
+
+The goal was to create a simple expense-tracking experience that allowed users to:
+
+* Record daily expenses
+* Categorize spending
+* Monitor spending habits
+* View monthly expenditure summaries
+* Manage profile preferences
+
+Unlike banking applications that focus on transactions and account management, Mint focused specifically on helping users build awareness around personal spending.
+
+---
+
+# Problem
+
+Many budgeting applications suffer from one of two problems:
+
+### Overly Complex
+
+Users are presented with:
+
+* Multiple dashboards
+* Financial jargon
+* Complex reports
+* Investment-related features
+
+making everyday expense tracking intimidating.
+
+### Excessively Manual
+
+Users often need to:
+
+* Create categories
+* Enter repetitive information
+* Navigate multiple screens
+
+before recording a simple expense.
+
+The challenge was creating an experience that remained simple while still providing useful financial insights.
+
+---
+
+# Objective
+
+Design a lightweight budgeting application that enables users to:
+
+* Quickly log expenses
+* Categorize spending
+* Track monthly expenditure
+* Review spending history
+* Manage account preferences
+
+while maintaining a clean and approachable interface.
+
+---
+
+# Target Users
+
+### Students
+
+Users managing limited monthly budgets.
+
+### Young Professionals
+
+People looking to understand spending patterns.
+
+### Casual Budget Trackers
+
+Users who want simple expense logging without complex financial tools.
+
+---
+
+# User Flow
+
+## Expense Logging
+
+```text
+Dashboard
+↓
+Add Expense
+↓
+Select Category
+↓
+Enter Amount
+↓
+Add Description
+↓
+Save Expense
+```
+
+---
+
+## Expense Review
+
+```text
+Dashboard
+↓
+Expense History
+↓
+View Spending Categories
+```
+
+---
+
+# Information Architecture
+
+The application was structured around three primary sections:
+
+### Home
+
+Monthly expense overview and transaction history.
+
+### Add Expense
+
+Quick expense creation flow.
+
+### Profile
+
+User settings and account management.
+
+The navigation was intentionally limited to reduce complexity and improve usability.
+
+---
+
+# Key Screens
+
+## Dashboard
+
+The dashboard serves as the primary screen.
+
+Displayed information includes:
+
+* Total monthly expenditure
+* Expense categories
+* Transaction history
+* Spending breakdown
+
+Each expense category uses an icon and color coding to improve recognition.
+
+Examples include:
+
+* Transport
+* Food
+* Education
+
+The objective was to allow users to quickly scan spending patterns without opening individual transactions.
+
+---
+
+## Add Expense
+
+The expense creation screen focuses on simplicity.
+
+Users can:
+
+* Select a category
+* Enter amount
+* Add a description
+
+The form structure minimizes the number of actions required to log an expense.
+
+---
+
+## Profile
+
+The profile screen provides access to:
+
+* User information
+* Measurement preferences
+* Email details
+* Password management
+
+This screen was designed as a straightforward settings page with minimal distractions.
+
+---
+
+# Visual Design
+
+## Color System
+
+The interface uses a restrained visual palette.
+
+Primary colors were used to differentiate spending categories:
+
+* Red for transportation
+* Blue for food and education
+* Green for primary actions
+
+The limited color palette helps maintain visual consistency.
+
+---
+
+## Typography
+
+Typography follows a simple hierarchy:
+
+* Large expenditure values
+* Medium category titles
+* Small supporting labels
+
+The focus was on making financial information easy to scan.
+
+---
+
+## Iconography
+
+Icons were used to improve category recognition.
+
+The objective was reducing reliance on reading while increasing visual recognition.
+
+---
+
+# Design Decisions
+
+## Bottom Navigation
+
+A three-tab navigation structure was chosen because:
+
+* Users primarily review expenses
+* Frequently add transactions
+* Occasionally access profile settings
+
+This creates a straightforward navigation model.
+
+---
+
+## Large Expense Summary
+
+The total expense figure was intentionally emphasized to provide immediate visibility into spending behavior.
+
+Users should understand their financial position at a glance.
+
+---
+
+## Simplified Data Entry
+
+The add-expense screen avoids unnecessary fields and focuses on the minimum information required to record a transaction.
+
+---
+
+# Challenges
+
+The biggest challenge was balancing simplicity with usefulness.
+
+Questions explored during the design process included:
+
+* How much financial information is enough?
+* What should be visible immediately?
+* How many steps should expense creation require?
+
+Because this was an early project, many advanced budgeting features were intentionally excluded.
+
+---
+
+# What I Would Improve Today
+
+If redesigned today, I would add:
+
+### Spending Analytics
+
+* Monthly trends
+* Spending charts
+* Category breakdowns
+
+### Budget Planning
+
+* Monthly spending limits
+* Savings goals
+* Budget recommendations
+
+### Smart Expense Entry
+
+* Receipt scanning
+* Automatic categorization
+* AI-powered suggestions
+
+### Better Financial Insights
+
+* Spending alerts
+* Weekly summaries
+* Budget performance tracking
+
+---
+
+# Learnings
+
+This project helped develop skills in:
+
+* Form design
+* Financial product UX
+* Dashboard layouts
+* Information hierarchy
+* Mobile navigation patterns
+
+It also reinforced the importance of reducing friction for frequently repeated actions.
+
+---
+
+# Reflection
+
+Mint was one of my earliest attempts at designing a productivity-focused application. Compared to projects focused on content consumption or commerce, budgeting applications require users to repeatedly perform small tasks with minimal effort.
+
+While the concept remained relatively simple, it helped establish foundational skills in dashboard design, form workflows, and data presentation. Looking back, the project prioritized usability and clarity over visual experimentation, making it an important step in understanding utility-driven product design.
+

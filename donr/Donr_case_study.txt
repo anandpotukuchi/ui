@@ -1,0 +1,283 @@
+# Donr — Blood Donation Mobile App Concept (2019)
+
+## Overview
+
+Donr was a conceptual mobile application designed to simplify blood donation by connecting donors and recipients through a streamlined mobile experience. The project focused on making donor discovery, communication, and donation management accessible through an intuitive interface.
+
+This project was created in 2019, before formal UI/UX training, and was heavily influenced by contemporary mobile design trends and Dribbble-inspired visual aesthetics.
+
+---
+
+# Problem
+
+Blood donation processes are often fragmented across hospitals, blood banks, and informal networks. Individuals seeking blood frequently face challenges such as:
+
+* Difficulty finding compatible donors quickly.
+* Limited visibility into donor availability.
+* Lack of direct communication channels.
+* Complex and outdated digital experiences.
+
+The goal was to explore how a mobile application could simplify donor discovery and communication while encouraging regular blood donations.
+
+---
+
+# Objective
+
+Design a mobile application that allows users to:
+
+* Search for compatible blood donors.
+* View donor information.
+* Communicate directly with donors.
+* Track donation-related activity.
+* Encourage community participation in blood donation.
+
+---
+
+# Target Users
+
+### Blood Recipients
+
+Individuals seeking compatible blood donors during medical emergencies or planned treatments.
+
+### Blood Donors
+
+People willing to donate blood and connect with nearby recipients.
+
+### Blood Banks
+
+Organizations that could potentially use the platform to facilitate donor management and outreach.
+
+---
+
+# Design Process
+
+At the time of creation, the design process was primarily visual and concept-driven rather than research-led.
+
+The workflow included:
+
+1. Identifying core features.
+2. Sketching screen ideas.
+3. Designing high-fidelity mobile interfaces.
+4. Creating a consistent visual style.
+5. Refining layouts for presentation.
+
+The project focused more on interface design than formal UX methodologies.
+
+---
+
+# Key Features
+
+## Donor Discovery
+
+Users can browse donors based on blood type compatibility.
+
+Features:
+
+* Blood group filtering.
+* Donor profile previews.
+* Quick access to donor information.
+
+### Design Goal
+
+Reduce the time required to locate compatible donors.
+
+---
+
+## Donor Profiles
+
+Each donor profile provides information about:
+
+* Medical history.
+* Donation frequency.
+* Last donation date.
+* Associated blood bank.
+
+### Design Goal
+
+Help users evaluate donor eligibility and reliability before initiating contact.
+
+---
+
+## Messaging System
+
+A built-in messaging interface allows direct communication between donors and recipients.
+
+Features:
+
+* Real-time conversation layout.
+* Appointment coordination.
+* Simplified communication workflow.
+
+### Design Goal
+
+Eliminate friction caused by switching between multiple communication platforms.
+
+---
+
+# Visual Design
+
+## Color Palette
+
+The application uses a red-centered color system inspired by blood donation awareness campaigns.
+
+Primary Color:
+
+* Red (#E34A3C Approx.)
+
+Supporting Colors:
+
+* White
+* Light Gray
+
+### Rationale
+
+Red immediately communicates the purpose of the platform while creating a strong visual identity.
+
+---
+
+## Typography
+
+The design uses clean sans-serif typography with a focus on readability and simplicity.
+
+Key considerations:
+
+* Clear hierarchy.
+* Large section headings.
+* Minimal visual clutter.
+
+---
+
+## Layout
+
+The interface follows common mobile design patterns popular in 2019:
+
+* Rounded cards.
+* Floating action buttons.
+* Generous whitespace.
+* Large profile imagery.
+* Bottom navigation.
+
+These choices prioritized familiarity and visual appeal.
+
+---
+
+# Screens
+
+## Find Donors
+
+The donor search screen allows users to:
+
+* Select blood types.
+* Browse matching donors.
+* Navigate to donor profiles.
+
+### Highlights
+
+* Simple filtering mechanism.
+* Large donor imagery.
+* Persistent navigation.
+
+---
+
+## Donor Profile
+
+The profile screen displays:
+
+* Personal overview.
+* Medical status.
+* Donation history.
+* Contact actions.
+
+### Highlights
+
+* Strong visual hierarchy.
+* Easy access to communication.
+* Donation-related information surfaced prominently.
+
+---
+
+## Messaging
+
+The messaging screen supports communication between users.
+
+### Highlights
+
+* Familiar chat interface.
+* Appointment coordination.
+* Minimal learning curve.
+
+---
+
+# Challenges
+
+## Balancing Information and Simplicity
+
+A key challenge was deciding how much medical information to display without overwhelming users.
+
+## Mobile-First Constraints
+
+The interface needed to communicate trust and credibility within limited screen space.
+
+## Visual vs Functional Priorities
+
+The project was heavily influenced by visual design trends, requiring a balance between aesthetics and usability.
+
+---
+
+# What I Would Improve Today
+
+Looking back with greater UX experience, several improvements would strengthen the product:
+
+### User Research
+
+* Interview donors and recipients.
+* Validate assumptions.
+* Identify real pain points.
+
+### Search Experience
+
+* Distance-based filtering.
+* Availability status.
+* Advanced search criteria.
+
+### Accessibility
+
+* Improved color contrast.
+* Larger touch targets.
+* Better support for visually impaired users.
+
+### Information Architecture
+
+* Clearer donation workflows.
+* Better donor verification indicators.
+* Enhanced trust-building mechanisms.
+
+### Data Visualization
+
+* Donation statistics.
+* Eligibility tracking.
+* Donation reminders.
+
+---
+
+# Outcome
+
+Donr successfully explored how a mobile application could simplify donor discovery and communication through a visually engaging interface.
+
+While the project was primarily UI-focused and created before formal UX training, it demonstrates an early understanding of:
+
+* Interface hierarchy.
+* Mobile design conventions.
+* Visual consistency.
+* User-centered feature thinking.
+
+---
+
+# Reflection
+
+Donr represents an important stage in my design journey. Created in 2019, the project reflects the visual trends that initially sparked my interest in product design.
+
+Although the work predates my formal UX education, it laid the foundation for later projects that incorporated research, information architecture, design systems, accessibility, and more structured user experience methodologies.
+
+The project serves as a snapshot of my evolution from designing attractive interfaces to designing complete user experiences.
+
