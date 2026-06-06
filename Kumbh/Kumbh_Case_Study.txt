@@ -1,0 +1,99 @@
+KUMBH — Event Companion for Kumbh Mela 2025
+
+OVERVIEW
+Project Type: Mobile App Concept
+Role: Solo Designer (Developer learning UI/UX)
+Timeline: Coursera UI/UX Design Specialization Capstone
+Date: February 2024
+
+PROJECT SUMMARY
+Kumbh is a mobile companion application intended to help visitors navigate and experience Kumbh Mela through itineraries, cultural activities, academic discourses, shopping, maps, and profile management.
+
+PROBLEM STATEMENT
+Kumbh Mela is a large-scale event where visitors need a simple way to discover activities, manage schedules, explore cultural programs, and access event-related information.
+
+GOALS
+- Help visitors discover events
+- Provide itinerary management
+- Enable navigation and location discovery
+- Surface cultural and academic programs
+- Support shopping and event exploration
+
+TARGET USERS
+- First-time visitors
+- Pilgrims
+- Cultural tourists
+- Students and researchers
+- Families attending the event
+
+INFORMATION ARCHITECTURE
+Home
+├── Itinerary
+├── Map
+├── VR
+├── Profile
+├── Academic Discourses
+├── Cultural Performances
+├── Shopping
+└── Food & Drink
+
+KEY FEATURES
+1. Event Discovery
+2. Itinerary Tracking
+3. Cultural Activities
+4. Academic Sessions
+5. Shopping Categories
+6. User Profile
+7. Location-Based Exploration
+
+VISUAL DESIGN
+Primary Style:
+- Warm beige background
+- Deep red accent color
+- Soft pink secondary action color
+
+Typography:
+- Serif branding for cultural identity
+- Mixed serif/sans-serif interface text
+
+DESIGN STRENGTHS
+- Consistent cultural theme
+- Clear visual identity
+- Simple navigation model
+- Appropriate color palette for the subject matter
+- Strong thematic connection to Kumbh Mela
+
+CHALLENGES IDENTIFIED
+- Limited visual hierarchy in content-heavy screens
+- Inconsistent spacing system
+- Accessibility concerns with contrast and typography sizes
+- Placeholder imagery and lorem ipsum content reduce realism
+- Navigation patterns require refinement
+
+ACCESSIBILITY IMPROVEMENTS
+- Increase text size
+- Improve color contrast
+- Add clearer touch targets
+- Strengthen visual distinction between selected and unselected tabs
+
+OUTCOMES
+The project demonstrates understanding of:
+- User flows
+- Mobile information architecture
+- Screen composition
+- Thematic branding
+- Basic UX design principles
+
+LEARNINGS
+- Consistency systems matter as much as aesthetics
+- Content hierarchy improves scanability
+- Accessibility should be considered early
+- Real content significantly improves design quality
+
+FUTURE IMPROVEMENTS
+- Create a design system
+- Introduce an 8pt spacing grid
+- Improve card layouts
+- Enhance map experience
+- Add onboarding and ticket management
+- Conduct usability testing with real users
