@@ -1,0 +1,300 @@
+CTRL9 — Smart Home Automation Platform
+
+OVERVIEW
+
+Project Name: Ctrl9
+Industry: Home Automation / IoT
+Project Type: Mobile Application
+Role: Founder, Product Designer, Developer
+Concept Origin: 2018
+UI Redesign Initiated: November 2023
+Project Status: Active Development (June 2026)
+
+PROJECT SUMMARY
+
+Ctrl9 is a smart home automation platform designed to simplify device management, room organization, scene creation, and home control through a unified mobile experience.
+
+The platform aims to provide users with a simple and scalable method for managing connected devices such as lights, televisions, air conditioners, air purifiers, and other smart appliances.
+
+PROBLEM STATEMENT
+
+Existing home automation solutions often suffer from:
+- Complex onboarding experiences
+- Fragmented device management
+- Poor room organization
+- Difficult automation setup
+- Inconsistent control experiences
+
+Ctrl9 was conceived to create a cleaner and more intuitive smart-home ecosystem that balances power and simplicity.
+
+PRODUCT GOALS
+
+- Simplify smart-home onboarding
+- Reduce friction when adding devices
+- Organize devices by room
+- Enable scene-based automation
+- Provide centralized home control
+- Create scalable foundations for future automations
+
+TARGET USERS
+
+Primary Users
+- Homeowners
+- Apartment residents
+- Smart-home enthusiasts
+- Families
+
+Secondary Users
+- Property managers
+- Small office operators
+- Hospitality environments
+
+USER PAIN POINTS
+
+- Too many disconnected device apps
+- Difficult device setup processes
+- Confusing automation creation
+- Lack of centralized control
+- Poor visibility into home status
+
+SOLUTION
+
+Ctrl9 introduces a unified control experience built around:
+
+1. Rooms
+2. Devices
+3. Scenes
+4. Dashboard
+5. User Profiles
+
+This structure mirrors how users naturally think about their homes.
+
+INFORMATION ARCHITECTURE
+
+Home
+├── Dashboard
+├── Rooms
+├── Devices
+├── Scenes
+└── Profile
+
+ROOMS
+├── Living Room
+├── Bedroom
+├── Kitchen
+├── Lounge
+└── Custom Rooms
+
+DEVICES
+├── Lights
+├── Smart TV
+├── Air Conditioner
+├── Air Purifier
+└── Future Device Types
+
+SCENES
+├── Morning Scene
+├── Night Scene
+├── Good Night
+└── Custom Scenes
+
+KEY USER FLOWS
+
+FLOW 1 — Authentication
+
+Launch
+→ Sign In / Sign Up
+→ Verification
+→ Dashboard
+
+FLOW 2 — Add Device
+
+Dashboard
+→ Add Device
+→ Scan QR / NFC
+→ Detect Device
+→ Assign Room
+→ Name Device
+→ Confirmation
+
+FLOW 3 — Create Scene
+
+Dashboard
+→ Create Scene
+→ Name Scene
+→ Select Devices
+→ Configure States
+→ Save Scene
+
+FLOW 4 — Create Room
+
+Rooms
+→ Add Room
+→ Select Template
+→ Assign Devices
+→ Save Room
+
+FLOW 5 — Device Control
+
+Dashboard
+→ Select Device
+→ Device Control Screen
+→ Modify State
+→ Real-time Feedback
+
+DESIGN PRINCIPLES
+
+1. Simplicity First
+Users should never wonder what to do next.
+
+2. Room-Centric Organization
+People think about rooms before devices.
+
+3. Progressive Disclosure
+Advanced controls appear only when needed.
+
+4. Immediate Feedback
+Every action provides visible confirmation.
+
+VISUAL DESIGN SYSTEM
+
+Color Palette
+
+Primary Action:
+- Mint Green
+
+Background:
+- White
+
+Navigation:
+- Dark Gray / Black
+
+Feedback:
+- Green Success States
+
+Typography
+
+- Modern sans-serif
+- High readability
+- Strong hierarchy
+- Minimal decorative styling
+
+COMPONENT SYSTEM
+
+Core Components
+
+- Device Cards
+- Room Cards
+- Scene Cards
+- Modal Sheets
+- Toggle Controls
+- Bottom Navigation
+- Device Tiles
+- Status Indicators
+
+UX DECISIONS
+
+Room-Based Architecture
+
+Research indicated that users mentally model their homes by rooms rather than device categories.
+
+Examples:
+
+Living Room
+├── TV
+├── Lights
+└── Air Conditioner
+
+Bedroom
+├── Lights
+├── Fan
+└── Air Purifier
+
+This became the foundation of the product.
+
+Scene Creation
+
+Scenes allow multiple devices to be controlled together.
+
+Example:
+
+Good Night Scene
+- Turn lights off
+- Reduce AC temperature
+- Turn purifier on
+
+This reduces repetitive actions.
+
+DASHBOARD STRATEGY
+
+The dashboard focuses on:
+
+- Device status visibility
+- Scene activation
+- Frequently used devices
+- Quick access controls
+
+The goal is to reduce the number of taps required for common actions.
+
+ACCESSIBILITY CONSIDERATIONS
+
+Implemented
+- Large touch targets
+- Clear iconography
+- Simple navigation structure
+
+Future Improvements
+- Dark mode support
+- Higher contrast options
+- Color-blind accessibility review
+- Voice control integration
+
+CHALLENGES
+
+1. Balancing simplicity and flexibility
+2. Designing scalable room architecture
+3. Supporting future device categories
+4. Maintaining consistency across workflows
+5. Creating reusable components
+
+OUTCOMES
+
+The project demonstrates:
+
+- Product strategy
+- UX architecture
+- Mobile workflow design
+- Design system thinking
+- IoT product design
+- End-to-end user journey mapping
+
+LEARNINGS
+
+- Workflow design matters more than screen aesthetics.
+- Room-based mental models improve usability.
+- Consistent interaction patterns reduce learning time.
+- Smart-home products require strong systems thinking.
+
+FUTURE ROADMAP
+
+Phase 1
+- Device onboarding
+- Room management
+- Scene creation
+
+Phase 2
+- Automation builder
+- Scheduled routines
+- Trigger-based actions
+
+Phase 3
+- Energy monitoring
+- AI-assisted automations
+- Voice integrations
+- Multi-user permissions
+
+PORTFOLIO ASSESSMENT
+
+Overall Rating: 8.2 / 10
+
+Ctrl9 is the strongest project in the portfolio to date. It demonstrates mature product thinking, coherent information architecture, and realistic smart-home workflows. The primary opportunities for improvement are visual refinement, expanded automation capabilities, accessibility enhancements, and deeper device-control experiences.
