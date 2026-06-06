@@ -1,0 +1,404 @@
+# FitKit
+
+### Designing a Minimal Fitness Tracking Experience
+
+**Project Type:** Personal UX/UI Project
+**Duration:** February 2022
+**Role:** UX Designer, UI Designer
+**Platform:** Mobile App
+**Status:** Concept Project
+
+---
+
+# Overview
+
+FitKit was my second independent UI/UX project, created shortly after Vishwakosh.
+
+Unlike Vishwakosh, which focused on information architecture and content discovery, FitKit explored a completely different challenge:
+
+> How can fitness tracking be made simple, approachable, and visually lightweight?
+
+At the time, most fitness apps felt overloaded with dashboards, charts, subscriptions, social feeds, and excessive data. The goal was to design an experience focused only on what users needed to start, perform, and track workouts.
+
+---
+
+# Problem
+
+Many fitness applications suffer from:
+
+* Information overload
+* Complex onboarding
+* Too many metrics competing for attention
+* Difficult workout tracking
+* Poor focus during exercise sessions
+
+Users often want simple answers:
+
+* What workout should I do?
+* How many reps?
+* How much progress have I made?
+
+The challenge was reducing friction while maintaining usefulness.
+
+---
+
+# Goal
+
+Design a fitness companion that enables users to:
+
+* Create workouts
+* Follow exercise routines
+* Track daily activity
+* Monitor progress
+* View workout history
+
+without overwhelming them with unnecessary information.
+
+---
+
+# Design Principles
+
+Three principles guided the project:
+
+### Simplicity
+
+Only essential information should be visible.
+
+### Focus
+
+Users should stay focused on exercising rather than navigating.
+
+### Readability
+
+Metrics should be understandable at a glance.
+
+---
+
+# Research
+
+The project was inspired by:
+
+* Fitbit
+* Google Fit
+* Nike Training Club
+* Samsung Health
+
+Key observations:
+
+| Existing Apps           | Opportunity           |
+| ----------------------- | --------------------- |
+| Too many dashboards     | Simplify metrics      |
+| Complex navigation      | Reduce steps          |
+| Data-heavy screens      | Focus on action       |
+| Multiple competing CTAs | Clear primary actions |
+
+---
+
+# User Flow
+
+## Create Workout
+
+```text
+Select Muscle Group
+↓
+Choose Exercises
+↓
+Create Set
+↓
+Start Workout
+```
+
+---
+
+## Exercise Flow
+
+```text
+Workout
+↓
+Exercise Details
+↓
+Watch Demonstration
+↓
+Perform Repetitions
+↓
+Track Progress
+```
+
+---
+
+## Activity Tracking
+
+```text
+Daily Steps
+↓
+Calories Burned
+↓
+Distance Covered
+↓
+Weekly Trends
+```
+
+---
+
+# Information Architecture
+
+The application was divided into three core areas:
+
+### Workouts
+
+Exercise planning and execution.
+
+### Exercise Library
+
+Technique guidance and demonstrations.
+
+### Progress Tracking
+
+Steps, calories, distance, and activity history.
+
+---
+
+# Key Screens
+
+## Splash Screen
+
+The FitKit identity focused on simplicity.
+
+The logo used a dot-based symbol inspired by fitness trackers and wearable devices.
+
+The visual language was intentionally minimal.
+
+---
+
+## Workout Builder
+
+The workout creation screen allowed users to:
+
+* Select a muscle group
+* View exercise suggestions
+* Build routines
+* Start training
+
+Example:
+
+```text
+Chest
+↓
+Straight Squat
+↓
+Squat Jump
+↓
+Single-Leg Hip Raise
+```
+
+The interface prioritized clarity over visual complexity.
+
+---
+
+## Exercise Detail
+
+Each exercise screen contained:
+
+* Exercise name
+* Demonstration video
+* Weekly frequency
+* Number of sets
+* Repetition range
+* Progress chart
+
+The goal was to provide all relevant workout information on a single screen.
+
+---
+
+## Activity Dashboard
+
+The dashboard tracked:
+
+* Daily steps
+* Calories burned
+* Distance covered
+* Weekly trends
+
+A circular progress indicator acted as the primary visual element.
+
+This provided a quick summary without requiring users to navigate deeper into analytics.
+
+---
+
+# Visual Design
+
+## Color System
+
+Primary color:
+
+**Teal Green**
+
+Selected because it communicates:
+
+* Health
+* Energy
+* Movement
+* Wellness
+
+while feeling calmer than the bright reds commonly used in fitness products.
+
+---
+
+## Typography
+
+The design used:
+
+* Large headlines
+* Lightweight secondary text
+* High contrast hierarchy
+
+The intention was to create breathing room and reduce cognitive load.
+
+---
+
+# What Worked Well
+
+## Strong Visual Hierarchy
+
+Important information was immediately visible.
+
+Examples:
+
+* Exercise names
+* Repetition counts
+* Progress metrics
+
+---
+
+## Minimal Interface
+
+Compared to many fitness applications, the experience felt lightweight and uncluttered.
+
+---
+
+## Clear Action Paths
+
+Most screens had one obvious action:
+
+* Start workout
+* Watch exercise
+* Track progress
+
+This reduced decision fatigue.
+
+---
+
+## Consistent Design Language
+
+The teal color palette, large typography, and generous spacing created a cohesive experience.
+
+---
+
+# Challenges
+
+## Data Visualization
+
+Representing fitness progress in meaningful ways proved difficult.
+
+The charts and metrics remained relatively basic.
+
+---
+
+## Exercise Categorization
+
+The exercise structure was simplistic and lacked:
+
+* Difficulty levels
+* Equipment requirements
+* Personalization
+
+---
+
+## Limited Scope
+
+The project focused primarily on interface design and did not explore:
+
+* Nutrition tracking
+* Goals
+* Social features
+* Personalized coaching
+
+---
+
+# What I Would Improve Today
+
+If redesigning FitKit today, I would add:
+
+### Personalized Programs
+
+```text
+Goal
+↓
+Weight Loss
+↓
+Recommended Plan
+↓
+Progress Tracking
+```
+
+---
+
+### Better Analytics
+
+* Weekly trends
+* Strength progression
+* Workout consistency
+* Goal forecasting
+
+---
+
+### Adaptive Workouts
+
+Recommendations based on:
+
+* Fitness level
+* Recovery
+* Previous performance
+
+---
+
+### Habit Formation
+
+* Streaks
+* Milestones
+* Achievement system
+
+without becoming overly gamified.
+
+---
+
+# Outcome
+
+Although FitKit remained a concept project, it helped me explore:
+
+* Health and fitness UX
+* Data visualization
+* Progress tracking interfaces
+* Habit-oriented product design
+* Simplified mobile workflows
+
+---
+
+# Reflection
+
+FitKit marked a noticeable shift from Vishwakosh.
+
+Vishwakosh focused on organizing information.
+
+FitKit focused on organizing actions.
+
+Instead of asking:
+
+> How should users discover knowledge?
+
+the project explored:
+
+> How should users move from intention to action with the least possible friction?
+
+Looking back, the visual execution was still early-stage, but the project demonstrated growing confidence in layout, hierarchy, and task-oriented user flows. It was one of the first projects where I started thinking about behavior design rather than simply screen design.
+

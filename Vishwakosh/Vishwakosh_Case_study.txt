@@ -1,0 +1,343 @@
+Vishwakosh
+Reimagining the Encyclopedia for a Mobile-First Generation
+
+Project Type: Personal UX/UI Project
+Duration: November 2021 – December 2021
+Role: UX Designer, UI Designer
+Platform: Mobile App (Android)
+Status: Concept Project
+
+Overview
+
+Vishwakosh (विश्वकोश) was my first independent UX/UI project after completing my design certification.
+
+The idea emerged from a simple observation:
+
+Accessing historical and cultural information on mobile devices often feels fragmented, text-heavy, and difficult to explore.
+
+Most knowledge platforms were either designed primarily for desktop users or lacked structured discovery mechanisms that encouraged exploration.
+
+Vishwakosh aimed to create a mobile-first digital encyclopedia focused on Indian history, dynasties, historical documents, and educational content.
+
+Problem
+
+Students and history enthusiasts frequently encounter challenges when researching historical topics:
+
+Information scattered across multiple sources
+Limited contextual discovery
+Difficult navigation between related subjects
+Poor mobile reading experiences
+Lack of access to primary historical documents
+
+The challenge was to design a system that made learning feel exploratory rather than academic.
+
+Goal
+
+Design a digital encyclopedia that would allow users to:
+
+Discover historical content
+Search topics efficiently
+Browse historical eras and regions
+Access archival documents
+Read long-form educational articles
+Navigate complex knowledge structures on mobile devices
+Research & Inspiration
+
+The project was influenced by:
+
+Wikipedia
+Britannica
+Google Arts & Culture
+Museum archive systems
+Educational publishing platforms
+
+Key observations:
+
+Existing Platforms	Limitation
+Wikipedia	Information overload
+Britannica	Limited exploration
+Academic archives	Poor mobile usability
+Government repositories	Difficult navigation
+
+The opportunity was to combine discovery, search, and education into a single mobile experience.
+
+Design Process
+Phase 1: Information Architecture
+
+Before visual design, the focus was on organizing content.
+
+Primary Navigation
+Home
+Discover
+Search
+Documents
+Articles
+
+Each section served a specific purpose.
+
+Content Structure
+Historical Period
+    ↓
+Dynasty
+    ↓
+Overview
+Government
+Culture
+Military
+Economy
+Documents
+Related Articles
+
+The goal was to reduce cognitive load while maintaining depth.
+
+User Flow
+Discovery Flow
+Discover
+↓
+Browse Era
+↓
+Select Dynasty
+↓
+Read Overview
+↓
+Explore Related Content
+Search Flow
+Search
+↓
+Enter Query
+↓
+Results
+↓
+Historical Entry
+↓
+Deep Dive
+Document Flow
+Documents
+↓
+Archive Collection
+↓
+Document Details
+↓
+Document Viewer
+Wireframing
+
+Low-fidelity wireframes were created first to validate structure.
+
+Key Screens
+Splash Screen
+Homepage
+Search
+Dynasty Detail
+Document Listing
+Document Viewer
+Articles
+Article Reader
+
+At this stage, emphasis was placed on:
+
+Content hierarchy
+Readability
+Navigation clarity
+Search accessibility
+
+rather than visual styling.
+
+Visual Design
+Brand Identity
+
+The name Vishwakosh (विश्वकोश) was chosen because it directly translates to:
+
+Encyclopedia / Treasury of Knowledge
+
+The branding intentionally used Devanagari script to establish a distinctly Indian identity.
+
+Color System
+Primary Color
+
+Deep Blue
+
+Used to communicate:
+
+Trust
+Knowledge
+Authority
+Stability
+Typography
+
+The design used a minimal editorial approach:
+
+Large headings
+High contrast hierarchy
+Spacious layouts
+Content-first presentation
+
+The objective was to support long-form reading rather than visual decoration.
+
+Key Features
+1. Featured Content
+
+The homepage highlighted a featured historical article.
+
+Purpose:
+
+Encourage discovery
+Surface curated content
+Create a starting point for exploration
+2. Search Experience
+
+Users could search historical topics directly.
+
+Search results displayed:
+
+Dynasty Name
+Historical Description
+Time Period
+Founder Information
+
+This helped users evaluate relevance before opening entries.
+
+3. Dynasty Profiles
+
+Each historical entity contained:
+
+Overview
+Government
+Timeline Information
+Related Topics
+
+The tab-based structure allowed large amounts of information to be organized efficiently.
+
+4. Discovery Section
+
+Users could browse content through filters such as:
+
+Historical Era
+Geographic Region
+
+This transformed learning from search-driven to exploration-driven.
+
+5. Document Archive
+
+One of the more ambitious features was the inclusion of historical documents.
+
+Users could:
+
+Browse archives
+Open document records
+View metadata
+Read source materials
+
+This feature aimed to connect educational content with primary references.
+
+6. Articles
+
+A separate editorial section provided:
+
+Long-form content
+Essays
+Educational explainers
+Contextual reading
+
+This differentiated encyclopedia entries from narrative content.
+
+Challenges
+Designing for Depth
+
+Historical information is inherently complex.
+
+The challenge was balancing:
+
+Depth of information
+Simplicity of navigation
+
+without overwhelming users.
+
+Mobile Constraints
+
+Large amounts of content needed to fit within a small screen.
+
+Solutions included:
+
+Progressive disclosure
+Tab navigation
+Content chunking
+Search-first access
+Limited Resources
+
+As a solo learning project:
+
+No user testing
+No development team
+No content specialists
+
+Many decisions were based on design principles and competitive analysis.
+
+What Worked Well
+Strong Information Architecture
+
+The structure scaled well across:
+
+Articles
+Dynasties
+Documents
+Search-Centric Navigation
+
+Search became a natural entry point for users unfamiliar with historical topics.
+
+Clear Content Hierarchy
+
+Reading experiences remained focused and uncluttered.
+
+Modular System
+
+The architecture could easily expand to include:
+
+Maps
+Timelines
+Multimedia
+Knowledge graphs
+What I Would Improve Today
+
+Looking back with more experience, I would redesign several areas.
+
+Enhanced Discovery
+Interactive timelines
+Historical maps
+Related-topic networks
+Better Visual Identity
+Custom illustration system
+Indian archival references
+Museum-inspired visual language
+Stronger Search
+Advanced filters
+Era-based sorting
+Region-based categorization
+Knowledge Graphs
+
+Instead of isolated articles:
+
+Gupta Empire
+↓
+Chandragupta I
+↓
+Nalanda
+↓
+Trade Routes
+↓
+Related Dynasties
+
+allowing users to navigate knowledge contextually.
+
+Outcome
+
+Although Vishwakosh remained a concept project, it became an important milestone in my design journey.
+
+It was the first project where I explored:
+
+Information architecture
+Search systems
+Content organization
+Mobile reading experiences
+Knowledge discovery patterns
+
+Many of the principles developed during Vishwakosh later influenced larger ecosystem projects involving service design, platform architecture, and connected user journeys.
