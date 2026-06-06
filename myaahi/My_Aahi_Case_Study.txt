@@ -1,0 +1,129 @@
+MY AAHI — Insurance Management Platform
+
+OVERVIEW
+Project Name: My Aahi
+Industry: Insurance / InsurTech
+Project Type: Mobile Application
+Role: UI/UX Designer (Developer transitioning into design)
+Date: September 2023
+Project Status: Design frozen after client discontinued development
+
+PROJECT SUMMARY
+My Aahi was designed as a mobile insurance platform that allows users to manage policies, authenticate securely, view insurance products, and maintain profile information through a simplified mobile experience.
+
+BUSINESS PROBLEM
+Insurance products often involve fragmented user journeys across onboarding, policy management, OTP verification, and account maintenance. The goal was to consolidate these workflows into a single mobile experience.
+
+OBJECTIVES
+- Simplify policy management
+- Provide secure authentication
+- Enable OTP-based verification
+- Allow policy creation and review
+- Create a centralized insurance dashboard
+
+TARGET USERS
+- Individual policy holders
+- Families managing insurance plans
+- First-time insurance customers
+- Existing customers managing multiple policies
+
+KEY USER FLOWS
+1. Sign In
+2. Sign Up
+3. OTP Verification
+4. Password Recovery
+5. Policy Creation
+6. Policy Review
+7. Profile Management
+
+FEATURES
+- Mobile authentication
+- OTP verification
+- Password reset
+- Policy addition workflow
+- Dashboard overview
+- Profile management
+- Search functionality
+
+INFORMATION ARCHITECTURE
+Authentication
+├── Sign In
+├── Sign Up
+├── OTP Verification
+└── Forgot Password
+
+Dashboard
+├── Insurance Products
+├── Search
+├── Notifications
+└── Profile
+
+Policy Management
+├── Add Policy
+├── Policy Details
+└── Policy Confirmation
+
+DESIGN SYSTEM
+
+Colors
+- Primary: Purple
+- Background: White
+- Supporting: Gray
+- Success: Green
+
+Components
+- Form fields
+- Dropdown menus
+- CTA buttons
+- Bottom navigation
+- Profile cards
+- Status messages
+
+DESIGN STRENGTHS
+- Clear workflow structure
+- Logical form design
+- Consistent primary color usage
+- Straightforward navigation
+- Business-focused functionality
+
+CHALLENGES
+- Limited visual hierarchy
+- Heavy use of stock illustrations
+- Incomplete search experience
+- Minimal accessibility considerations
+- Inconsistent component language across screens
+
+ACCESSIBILITY IMPROVEMENTS
+- Increase text contrast
+- Improve field labels
+- Add validation messaging
+- Increase touch target sizes
+- Improve form error handling
+
+OUTCOMES
+The project demonstrates:
+- Understanding of business applications
+- Mobile form design
+- Authentication workflows
+- Information architecture planning
+- User flow mapping
+
+LESSONS LEARNED
+- Design systems should be established early
+- Content hierarchy is critical for enterprise products
+- Illustrations should support rather than dominate workflows
+- Accessibility should be considered from the beginning
+
+FUTURE IMPROVEMENTS
+- Build a complete design system
+- Introduce claims management
+- Add policy analytics
+- Improve dashboard hierarchy
+- Create advanced search states
+- Conduct usability testing
+- Improve accessibility compliance
+
+PORTFOLIO ASSESSMENT
+Overall Rating: 5.5/10
+
+The project demonstrates solid product-thinking fundamentals and practical workflow design. The primary opportunities for improvement are visual hierarchy, spacing systems, accessibility, and overall interface polish.
